@@ -1,10 +1,10 @@
 # VR-Project
 
-Konzept:
-    Abgeschlossenes Arbeitszimmer mit mehreren Umzugskartons, die im Gewicht varieren und zerstört werden können.
-
-Tools:
-    - Unity Engine
-    - c / c++ / python
-    - git reositorie
-
+Konzept:</br>
+    Abgeschlossenes Arbeitszimmer mit mehreren Umzugskartons,</br>
+    die im Gewicht varieren und zerstört werden können.</br>
+</br>
+Tools:</br>
+    - Unity Engine</br>
+    - c / c++ / python</br>
+    - git reositorie</br>
