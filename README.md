@@ -8,3 +8,5 @@ Tools:</br>
 - Unity Engine</br>
 - c / c++ / python</br>
 - git reositorie</br>
+- Visual Studio 2017
+- Blender
